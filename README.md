@@ -6,6 +6,6 @@ In this tutorial we will learn how to implement Google maps in android app ad ho
 Watch Tutorial on -
 [Youtube](https://www.youtube.com/codingwithdev)
 
-#kotlin #intent #activities #androidstudiotutorial
+#kotlin #googlemap #Location #androidstudiotutorial
 
 ![GitHub Logo](/google_map_current_location.jpg)
